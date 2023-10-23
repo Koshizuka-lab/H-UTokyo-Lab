@@ -20,4 +20,6 @@ H-UTokyo Lab  is *******
 > Introduction
 > Introduction
  See Video
+>
+> ![Test Image 6](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
 
