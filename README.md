@@ -1,5 +1,4 @@
-# H-UTokyo Lab 
-## _Urban Well-being_
+# Urban Well-being
 
 H-UTokyo Lab  is *******
 - Type some Introduction
