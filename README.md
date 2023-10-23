@@ -24,5 +24,5 @@ H-UTokyo Lab  is *******
  ![Test Image 6](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
 
 
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=zgCy-9KUIZg&t=9s)
+ [![IMAGE ALT TEXT HERE]([https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)])(https://www.youtube.com/watch?v=zgCy-9KUIZg&t=9s)
 
