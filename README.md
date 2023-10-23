@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ### H-UTokyo Lab Urban Well-being
