@@ -1,6 +1,7 @@
 # Urban Well-being
 
 H-UTokyo Lab  is *******
+```
 - The process of creating knowledge or value has changed tremendously in recent years with advances in ICT, globalization and changing values of people. An era of great transformation has arrived where the way society or the economy is, and the structure of industry, are expected to undergo rapid change. Earlier this year, the Government of Japan, led the world in announcing a vision for a “Super Smart Society*1” through “Society 5.0*2” where issues in society are resolved and new values are created to accommodate such changes, leading to a prosperous lifestyle for all.
 
 The University of Tokyo (“the University”) believes that the collaborative creation of knowledge, drawing not only from one discipline but bringing together a diverse and global perspective to connect the knowledge is imperative in resolving complex global issues faced by society. To date, the University has brought together the achievements from its many faculties to resolve issues as well as contributed to government policy. It is the vision of the University to serve as “a global hub for knowledge collaboration contributing to the 21st-century global society”*3 by promoting the synergy that will connect the “creation of knowledge” to “the use of knowledge.” Through the new Laboratory, the University is promoting collaborative creation between industry and academia by sharing visions and actively drawing on the synergy to enhance the creation of new value for society.
@@ -12,6 +13,7 @@ The University and Hitachi decided to combine their respective efforts and colla
 *1 Super Smart Society: A society which can attend in detail to the various needs of society by providing necessary items or services to the people who require them, when they are required, in the amount required, thus enabling its citizens to live an active and comfortable life through high quality services regardless of difference in age, sex, region and language, etc.
 *2 Society 5.0: Activities related to the realization of a shared vision for a “Super Smart Society” where the cyber space and the real world (physical space) are intricately connected. The naming describes a new type of society that will be led by innovations in science and technology, following on from hunter-gatherer, pastoral-agrarian, industrial and information.
 *3 The University of Tokyo: Vision 2020 http://www.u-tokyo.ac.jp/en/about/vision_2020.html
+```
 
 ## Two Projects
 - Urban Well-being of Smart City 
@@ -27,6 +29,8 @@ The University and Hitachi decided to combine their respective efforts and colla
 > Introduction
 > Introduction
  See Video
+> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
  ![Test Image 6](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
 
