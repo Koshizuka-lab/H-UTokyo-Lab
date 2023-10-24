@@ -24,7 +24,7 @@ The University and Hitachi decided to combine their respective efforts and colla
 > By adopting these concepts, we aim to move beyond merely the physical aspects of urban spaces and functionalities. 
 
 - Urban Well-being By Design & Happiness
-- Scale City
+- ✨Scale City✨
 	> Introduction
 	> Introduction
 	> Introduction
