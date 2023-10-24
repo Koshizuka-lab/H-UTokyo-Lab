@@ -32,6 +32,10 @@ The University and Hitachi decided to combine their respective efforts and colla
 > 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+
+<img align="right" src="https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg" />
+
+
  ![Test Image 6](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
 
  ![IMAGE ALT TEXT HERE](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
