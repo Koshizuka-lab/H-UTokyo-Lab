@@ -15,7 +15,7 @@ The University and Hitachi decided to combine their respective efforts and colla
 *3 The University of Tokyo: Vision 2020 http://www.u-tokyo.ac.jp/en/about/vision_2020.html
 ```
 
-See Detail → (http://www.ht-lab.ducr.u-tokyo.ac.jp/en/)
+See Detail →  [H-UTokyo Lab](http://www.ht-lab.ducr.u-tokyo.ac.jp/en/)
 
 ## Two Projects
 - Urban Well-being of Smart City 
