@@ -24,19 +24,22 @@ The University and Hitachi decided to combine their respective efforts and colla
 > By adopting these concepts, we aim to move beyond merely the physical aspects of urban spaces and functionalities. 
 
 - Urban Well-being By Design & Happiness
-> Introduction
-> Introduction
-> Introduction
-> Introduction
-> Introduction
-> Introduction
+- Scale City
+	> Introduction
+	> Introduction
+	> Introduction
+	> Introduction
+	> Introduction
+	> Introduction
  See Video -> <img align="left" src="https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/download.jpeg" />
 
 [![Everything Is AWESOME](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/download.jpeg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
-- Happiness Finder
+- ✨MHappiness Finder✨
   >		The 'Happiness Finder' merges digital tech with the four-leaf clover symbol, echoing the Nordic 'Hygge' concept of cozy comfort. In our smart city, we focus on revealing 'small joys' to offer city dwellers moments of relaxation and well-being.
 			>	Activate your smartphone's camera and stroll around the city searching for a four-leaf clover. While spotting one with the human eye can be challenging, with the aid of machinery, you can effortlessly locate one. This support feature is made possible using machine learning and computer vision.
 			>	By collaborating with machines and seeking out the 'small joys' in the city on our own, our hearts and minds will likely become more enriched.
   [![Everything Is AWESOME](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/download.jpeg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+  *See Detail* →[_Happiness Finder_](https://www.happiness-finder.com/detect) 
