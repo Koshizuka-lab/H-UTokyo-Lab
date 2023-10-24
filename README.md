@@ -31,6 +31,7 @@ The University and Hitachi decided to combine their respective efforts and colla
 	> Introduction
 	> Introduction
 
+ 
 *See Video* -> <img align="left" src="https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/download.jpeg" />
 [![Everything Is AWESOME](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/download.jpeg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
