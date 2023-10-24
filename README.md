@@ -14,6 +14,7 @@ The University and Hitachi decided to combine their respective efforts and colla
 *2 Society 5.0: Activities related to the realization of a shared vision for a “Super Smart Society” where the cyber space and the real world (physical space) are intricately connected. The naming describes a new type of society that will be led by innovations in science and technology, following on from hunter-gatherer, pastoral-agrarian, industrial and information.
 *3 The University of Tokyo: Vision 2020 http://www.u-tokyo.ac.jp/en/about/vision_2020.html
 ```
+
 See Detail → (http://www.ht-lab.ducr.u-tokyo.ac.jp/en/)
 
 ## Two Projects
