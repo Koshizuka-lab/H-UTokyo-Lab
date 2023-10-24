@@ -29,18 +29,15 @@ The University and Hitachi decided to combine their respective efforts and colla
 > Introduction
 > Introduction
  See Video
-> 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <img align="left" src="https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/download.jpeg" />
-
 
  ![Test Image 6](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
 
  ![IMAGE ALT TEXT HERE](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
  See Video → (https://www.youtube.com/watch?v=zgCy-9KUIZg&t=9s)
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/download.jpeg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 [![Everything Is AWESOME](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)](https://www.youtube.com/watch?v=zgCy-9KUIZg&t=9s "Everything Is AWESOME")
 
