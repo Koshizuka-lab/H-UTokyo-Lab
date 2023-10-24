@@ -13,9 +13,9 @@ The University and Hitachi decided to combine their respective efforts and colla
 *1 Super Smart Society: A society which can attend in detail to the various needs of society by providing necessary items or services to the people who require them, when they are required, in the amount required, thus enabling its citizens to live an active and comfortable life through high quality services regardless of difference in age, sex, region and language, etc.
 *2 Society 5.0: Activities related to the realization of a shared vision for a “Super Smart Society” where the cyber space and the real world (physical space) are intricately connected. The naming describes a new type of society that will be led by innovations in science and technology, following on from hunter-gatherer, pastoral-agrarian, industrial and information.
 *3 The University of Tokyo: Vision 2020 http://www.u-tokyo.ac.jp/en/about/vision_2020.html
-*See Detail* →  [_H-UTokyo Lab_](http://www.ht-lab.ducr.u-tokyo.ac.jp/en/)
 ```
 
+*See Detail* →  [_H-UTokyo Lab_](http://www.ht-lab.ducr.u-tokyo.ac.jp/en/)
 **_Urban Well-being of Smart City_**
 > We're developing an Urban Well-being for Mega Cities concept, merging digital tech with urban space to enhance citizen life and value for its inhabitants.The key topics include connecting the Cyber and Physical worlds, creating a diverse information infrastructure known as Dataspace, incorporating AI, and establishing Interactive systems and Digital Communities to bridge cities and people. It also emphasizes the idea of 'Slow Digital' to lead a more fulfilling life. ​
 > By adopting these concepts, we aim to move beyond merely the physical aspects of urban spaces and functionalities. 
