@@ -30,10 +30,11 @@ The University and Hitachi decided to combine their respective efforts and colla
 
  ![Test Image 6](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
 
-
  ![IMAGE ALT TEXT HERE](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
  See Video → (https://www.youtube.com/watch?v=zgCy-9KUIZg&t=9s)
 
- [![Everything Is AWESOME]([/image/sample.webp](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg))](https://www.youtube.com/watch?v=zgCy-9KUIZg&t=9s "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+[![Everything Is AWESOME](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)](https://www.youtube.com/watch?v=zgCy-9KUIZg&t=9s "Everything Is AWESOME")
 
 - Happiness Finder
