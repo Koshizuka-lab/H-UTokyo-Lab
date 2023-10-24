@@ -34,13 +34,7 @@ See Detail →  [H-UTokyo Lab](http://www.ht-lab.ducr.u-tokyo.ac.jp/en/)
 
 <img align="left" src="https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/download.jpeg" />
 
- ![Test Image 6](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
-
- ![IMAGE ALT TEXT HERE](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)
- See Video → (https://www.youtube.com/watch?v=zgCy-9KUIZg&t=9s)
-
 [![Everything Is AWESOME](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/download.jpeg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-[![Everything Is AWESOME](https://github.com/Koshizuka-lab/H-UTokyo-Lab/blob/main/download.jpeg)](https://www.youtube.com/watch?v=zgCy-9KUIZg&t=9s "Everything Is AWESOME")
 
 - Happiness Finder
