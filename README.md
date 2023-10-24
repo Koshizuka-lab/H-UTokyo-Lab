@@ -1,6 +1,6 @@
 # Urban Well-being
 
-**About H-UTokyo Lab**
+**_About H-UTokyo Lab_**
 ```
 - The process of creating knowledge or value has changed tremendously in recent years with advances in ICT, globalization and changing values of people. An era of great transformation has arrived where the way society or the economy is, and the structure of industry, are expected to undergo rapid change. Earlier this year, the Government of Japan, led the world in announcing a vision for a “Super Smart Society*1” through “Society 5.0*2” where issues in society are resolved and new values are created to accommodate such changes, leading to a prosperous lifestyle for all.
 
@@ -17,12 +17,11 @@ The University and Hitachi decided to combine their respective efforts and colla
 
 *See Detail* →  [_H-UTokyo Lab_](http://www.ht-lab.ducr.u-tokyo.ac.jp/en/)
 
-
-- Urban Well-being of Smart City
+**_Urban Well-being of Smart City_**
 > We're developing an Urban Well-being for Mega Cities concept, merging digital tech with urban space to enhance citizen life and value for its inhabitants.The key topics include connecting the Cyber and Physical worlds, creating a diverse information infrastructure known as Dataspace, incorporating AI, and establishing Interactive systems and Digital Communities to bridge cities and people. It also emphasizes the idea of 'Slow Digital' to lead a more fulfilling life. ​
 > By adopting these concepts, we aim to move beyond merely the physical aspects of urban spaces and functionalities. 
 
-** Urban Well-being By Design & Happiness**
+**_Urban Well-being By Design & Happiness_**
 - ✨Scale City✨
  > Scale City is an initiative that combines physical and digital maps.
  > By installing a 3D printed model of PLATEAU, a 3D city model compatible with the real world, on a monitor, you can check the flow of people and traffic data against a three-dimensional map.
