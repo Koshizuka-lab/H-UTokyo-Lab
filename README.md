@@ -21,7 +21,7 @@ The University and Hitachi decided to combine their respective efforts and colla
 > By adopting these concepts, we aim to move beyond merely the physical aspects of urban spaces and functionalities. 
 
 **_Urban Well-being By Design & Happiness_**
-- ✨Scale City✨
+- 🏙️Scale City🏙️
  > Scale City is an initiative that combines physical and digital maps.
  > By installing a 3D printed model of PLATEAU, a 3D city model compatible with the real world, on a monitor, you can check the flow of people and traffic data against a three-dimensional map.
 > *See Detail*  →[_Scale City_](https://www.happiness-finder.com/detect) 
