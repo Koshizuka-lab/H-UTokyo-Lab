@@ -25,7 +25,7 @@ The University and Hitachi decided to combine their respective efforts and colla
 > Activate your smartphone's camera and stroll around the city searching for a four-leaf clover. While spotting one with the human eye can be challenging, with the aid of machinery, you can effortlessly locate one. This support feature is made possible using machine learning and computer vision.
 > By collaborating with machines and seeking out the 'small joys' in the city on our own, our hearts and minds will likely become more enriched.
 >
-  *See Detail* →[_Happiness Finder_](https://www.happiness-finder.com/detect) 
+>*See Detail* →[_Happiness Finder_](https://www.happiness-finder.com/detect) 
 [![Everything Is AWESOME](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/happiness_finder.jpeg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Happiness Finder")
 
 
