@@ -24,7 +24,7 @@ The University and Hitachi decided to combine their respective efforts and colla
 - 🏙️Scale City🏙️
  > Scale City is an initiative that combines physical and digital maps.
  > By installing a 3D printed model of PLATEAU, a 3D city model compatible with the real world, on a monitor, you can check the flow of people and traffic data against a three-dimensional map.
-> *See Detail*  →[_Scale City_](https://www.happiness-finder.com/detect) 
+> *See Detail*  →[_Scale City_] 
 [![Everything Is AWESOME](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/scale_city.jpeg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Scale City")
 
 - 🍀Happiness Finder🍀
