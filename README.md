@@ -24,7 +24,7 @@ The University and Hitachi decided to combine their respective efforts and colla
  > *See Detail*  →[_Scale City_]
 > [![Everything Is AWESOME](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/scale_city.jpeg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Scale City")
 
-> https://github.com/Koshizuka-lab/H-UTokyo-Lab/assets/5078652/dcddf67c-b8b8-483b-b8ae-8ff3f9e4f174
+https://github.com/Koshizuka-lab/H-UTokyo-Lab/assets/5078652/dcddf67c-b8b8-483b-b8ae-8ff3f9e4f174
 
 - 🍀Happiness Finder🍀
 >The 'Happiness Finder' merges digital tech with the four-leaf clover symbol, echoing the Nordic 'Hygge' concept of cozy comfort. In our smart city, we focus on revealing 'small joys' to offer city dwellers moments of relaxation and well-being.
