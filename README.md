@@ -12,5 +12,5 @@ The University and Hitachi decided to combine their respective efforts and colla
 **_Urban Well-being of Smart City_**
 > We're developing an Urban Well-being for Mega Cities concept, merging digital tech with urban space to enhance citizen life and value for its inhabitants.The key topics include connecting the Cyber and Physical worlds, creating a diverse information infrastructure known as Dataspace, incorporating AI, and establishing Interactive systems and Digital Communities to bridge cities and people. It also emphasizes the idea of 'Slow Digital' to lead a more fulfilling life. ​
 > By adopting these concepts, we aim to move beyond merely the physical aspects of urban spaces and functionalities.
-→ [*See Detail*](https://koshizuka-lab.github.io/H-UTokyo-Lab/well-being.html)
+→ [*See Detail*](https://koshizuka-lab.github.io/H-UTokyo-Lab/well-being.html)<br>
 >  <img src="https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/download.jpeg" height="240" width="320" alt="scale_city">
