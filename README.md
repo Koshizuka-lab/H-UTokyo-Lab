@@ -1,3 +1,6 @@
+
+
+
 **_About H-UTokyo Lab_**
 ```
 The University of Tokyo (“the University”) believes that the collaborative creation of knowledge, drawing not only from one discipline but bringing together a diverse and global perspective to connect the knowledge is imperative in resolving complex global issues faced by society. To date, the University has brought together the achievements from its many faculties to resolve issues as well as contributed to government policy. It is the vision of the University to serve as “a global hub for knowledge collaboration contributing to the 21st-century global society”*3 by promoting the synergy that will connect the “creation of knowledge” to “the use of knowledge.” Through the new Laboratory, the University is promoting collaborative creation between industry and academia by sharing visions and actively drawing on the synergy to enhance the creation of new value for society.
@@ -8,9 +11,12 @@ The University and Hitachi decided to combine their respective efforts and colla
 ```
 *See Detail* → [_H-UTokyo Lab_](http://www.ht-lab.ducr.u-tokyo.ac.jp/en/)
 
+
 **_Urban Well-being of Smart City_**
 > We're developing an Urban Well-being for Mega Cities concept, merging digital tech with urban space to enhance citizen life and value for its inhabitants.The key topics include connecting the Cyber and Physical worlds, creating a diverse information infrastructure known as Dataspace, incorporating AI, and establishing Interactive systems and Digital Communities to bridge cities and people. It also emphasizes the idea of 'Slow Digital' to lead a more fulfilling life. ​
-> By adopting these concepts, we aim to move beyond merely the physical aspects of urban spaces and functionalities. 
+> By adopting these concepts, we aim to move beyond merely the physical aspects of urban spaces and functionalities.
+
+https://github.com/Koshizuka-lab/H-UTokyo-Lab/assets/5078652/dcddf67c-b8b8-483b-b8ae-8ff3f9e4f174
 
 **_Urban Well-being By Design & Happiness_**
 - 🏙️Scale City🏙️
