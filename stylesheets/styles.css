@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
-p { color: #605833; font-family: Enriqueta; font-size: 16px; padding: 10px 0; }
+p { color: #605833; font-family: Enriqueta; font-size: 16px; padding: 5px 0; }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 5px;
