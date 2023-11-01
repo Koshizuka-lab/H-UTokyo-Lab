@@ -10,7 +10,7 @@
 
 > We're developing an Urban Well-being for Mega Cities concept, merging digital tech with urban space to enhance citizen life and value for its inhabitants.The key topics include connecting the Cyber and Physical worlds, creating a diverse information infrastructure known as Dataspace, incorporating AI, and establishing Interactive systems and Digital Communities to bridge cities and people. It also emphasizes the idea of 'Slow Digital' to lead a more fulfilling life. ​
 > By adopting these concepts, we aim to move beyond merely the physical aspects of urban spaces and functionalities.
-[![Scale_city](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/scale_city.jpeg)](https://koshizuka-lab.github.io/H-UTokyo-Lab/scale_city.html)
+
 
 **_🏙️Scale City🏙️_**
  > Scale City is an initiative that combines physical and digital maps.
