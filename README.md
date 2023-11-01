@@ -3,6 +3,7 @@
 **_About H-UTokyo Lab_**
 > The University of Tokyo and Hitachi are collaborating to address global challenges. The University merges diverse knowledge, aiming to bridge its creation with application. Hitachi employs its tech experience in societal solutions.
 > Together, they've established the "H-UTokyo Lab" to drive innovations for "Society 5.0", focusing on smart city concepts and energy systems. Both aim to share their joint research findings through public forums.
+
 [![HT-lab](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/top_H-UTokyoLab.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "HT-lab")
 
 
