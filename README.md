@@ -1,4 +1,6 @@
 **_About H-UTokyo Lab_**
+[![HT-lab](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/ht_lab_logo.png)](http://www.ht-lab.ducr.u-tokyo.ac.jp/en/)
+
 ```
 The University of Tokyo (“the University”) believes that the collaborative creation of knowledge, drawing not only from one discipline but bringing together a diverse and global perspective to connect the knowledge is imperative in resolving complex global issues faced by society. To date, the University has brought together the achievements from its many faculties to resolve issues as well as contributed to government policy. It is the vision of the University to serve as “a global hub for knowledge collaboration contributing to the 21st-century global society”*3 by promoting the synergy that will connect the “creation of knowledge” to “the use of knowledge.” Through the new Laboratory, the University is promoting collaborative creation between industry and academia by sharing visions and actively drawing on the synergy to enhance the creation of new value for society.
 
