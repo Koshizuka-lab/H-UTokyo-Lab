@@ -28,3 +28,6 @@
 [![Happiness Finder](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/happiness_finder.jpeg)](https://koshizuka-lab.github.io/H-UTokyo-Lab/happiness_finder.html)
 
 
+
+**_Urban Well-being by Digital and Design Together_**
+
