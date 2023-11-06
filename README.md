@@ -6,7 +6,7 @@
 
 **_Urban Well-being of Smart City_**
 
-[![HT-lab](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/top_H-UTokyoLab.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "HT-lab")
+[![HT-lab](https://raw.githubusercontent.com/Koshizuka-lab/H-UTokyo-Lab/master/top_H-UTokyoLab.png)](https://www.youtube.com/watch?v=J9hEW4QRbZw "HT-lab")
 
 > We're developing an Urban Well-being for Mega Cities concept, merging digital tech with urban space to enhance citizen life and value for its inhabitants.The key topics include connecting the Cyber and Physical worlds, creating a diverse information infrastructure known as Dataspace, incorporating AI, and establishing Interactive systems and Digital Communities to bridge cities and people. It also emphasizes the idea of 'Slow Digital' to lead a more fulfilling life. ​
 > By adopting these concepts, we aim to move beyond merely the physical aspects of urban spaces and functionalities.
